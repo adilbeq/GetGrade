@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "646237647597",
+    "firebase_url": "https://gradesapp-c816a.firebaseio.com",
+    "project_id": "gradesapp-c816a",
+    "storage_bucket": "gradesapp-c816a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646237647597:android:1b9a4cf28d88d67b",
+        "android_client_info": {
+          "package_name": "com.example.gradesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646237647597-n7h92a7l1dfgrdlulu70p0ihgikebh5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOz0pi5w3OISeUAMH_mCizycMXEm4KACM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646237647597-n7h92a7l1dfgrdlulu70p0ihgikebh5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
